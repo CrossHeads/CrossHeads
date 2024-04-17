@@ -1,12 +1,6 @@
-trying to learn how to box 🥊
-occasionally work on software stuff
+occasionally do software stuff
 
-
-
-
-
-DEMPSEY ROLL
-https://tenor.com/view/ippo-dempsey-roll-hajime-no-ippo-fighting-gif-23040540
+:moyai:
 
 <!---
 CrossHeads/CrossHeads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
